@@ -1,0 +1,8 @@
+{
+  "name": "web-feature-qa",
+  "version": "0.1.0",
+  "description": "Kiểm thử tính năng website từ URL + tài liệu mô tả: brainstorm testcase, duyệt trên artifact, chạy test bằng Chrome DevTools MCP, quay video/chụp ảnh lỗi bằng ffmpeg.",
+  "author": { "name": "congktx" },
+  "repository": "https://github.com/congktx/web-feature-qa",
+  "keywords": ["qa", "testing", "testcase", "chrome-devtools", "ffmpeg"]
+}
